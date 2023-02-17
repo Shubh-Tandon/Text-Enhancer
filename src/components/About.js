@@ -42,7 +42,7 @@ export default function About(props) {
               style={myStyle}
             >
               <div className="accordion-body" style={myStyle}>
-             TextUtils gives you the way to analyse and enhance your text easily.
+             Text Enhancer gives you the way to analyse, enhance and manage your text easily.
               </div>
             </div>
           </div>
@@ -99,10 +99,7 @@ export default function About(props) {
             </div>
           </div>
         </div>
-        {/* <div className="container my-3">
-        <button type="button" className="btn btn-primary" onClick={toggleStyle}>{btntext}</button>
-
-        </div> */}
+       
       </div>
 
   );
